@@ -258,7 +258,34 @@ td, th {
         width: auto;
     }
 
+    .principal {
+        margin-left: 15px;
+        margin-right: 10px;
+        text-align: justify;
+    }
+
+    .mapa p {
+        margin: 0 5px;
+    }
+
+    .mapa-contenido {
+        margin-top: 20px;
+    }
+
+    .mapa {
+        padding-bottom: 0;
+    }
+
+    .lista-diferenciales {
+        margin-bottom: 50px;
+        
+    }
+
     .lista-diferenciales, .imagen-diferenciales {
         width: 100%;
+    }
+
+    .imagen-diferenciales {
+        margin-bottom: 30px;
     }
 }
